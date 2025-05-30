@@ -1,0 +1,9 @@
+LIBRARY Matrix
+EXPORTS
+    VectorCreate
+    VectorDisplay
+    VectorMultConst
+    VectorDelete
+    MatrixCreate
+    MatrixDisplay
+    MatrixDelete

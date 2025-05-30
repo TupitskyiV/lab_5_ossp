@@ -1,0 +1,8 @@
+EXPORTS
+    MatrixCreate @1
+    MatrixDelete @2
+    MatrixDisplay @3
+    VectorCreate @4
+    VectorDelete @5
+    VectorDisplay @6
+    VectorMultConst @7

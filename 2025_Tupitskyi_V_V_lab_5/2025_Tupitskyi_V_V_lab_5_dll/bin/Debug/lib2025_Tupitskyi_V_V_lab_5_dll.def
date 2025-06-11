@@ -1,8 +1,17 @@
 EXPORTS
-    MatrixCreate @1
-    MatrixDelete @2
-    MatrixDisplay @3
-    VectorCreate @4
-    VectorDelete @5
-    VectorDisplay @6
-    VectorMultConst @7
+    MatrixCopy @1
+    MatrixCreate @2
+    MatrixDelete @3
+    MatrixDisplay @4
+    MatrixMMAdd @5
+    MatrixMMMult @6
+    MatrixMVMult @7
+    MatrixMakeE @8
+    VectorAdd @9
+    VectorCopy @10
+    VectorCreate @11
+    VectorDelete @12
+    VectorDiff @13
+    VectorDisplay @14
+    VectorMultConst @15
+    VectorScalar @16

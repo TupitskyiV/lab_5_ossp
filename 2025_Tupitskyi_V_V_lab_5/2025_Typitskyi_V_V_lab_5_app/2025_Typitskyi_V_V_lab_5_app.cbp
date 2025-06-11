@@ -34,6 +34,8 @@
 			<Add option="-Wall" />
 			<Add directory="../2025_Tupitskyi_V_V_lab_5_dll" />
 		</Compiler>
+		<Unit filename="Matrix.h" />
+		<Unit filename="SMatrix.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

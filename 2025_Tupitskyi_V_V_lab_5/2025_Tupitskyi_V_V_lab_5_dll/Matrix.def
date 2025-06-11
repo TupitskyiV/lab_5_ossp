@@ -2,8 +2,17 @@ LIBRARY Matrix
 EXPORTS
     VectorCreate
     VectorDisplay
+    VectorAdd
+    VectorDiff
+    VectorScalar
     VectorMultConst
+    VectorCopy
     VectorDelete
     MatrixCreate
     MatrixDisplay
+    MatrixMakeE
+    MatrixMMMult
+    MatrixMMAdd
+    MatrixMVMult
+    MatrixCopy
     MatrixDelete

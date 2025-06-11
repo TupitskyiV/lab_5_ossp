@@ -1,13 +1,14 @@
-#ifndef SMATRIX_H
-#define SMATRIX_H
+// ===== SMatrix.h =====
+#ifndef __SMATRIX_H
+#define __SMATRIX_H
 
-typedef struct {
-    double* Data;
+typedef struct Vector {
+    double *Data;
     unsigned long int VectorSize;
 } SVector;
 
-typedef struct {
-    double** Data;
+typedef struct Matrix {
+    double **Data;
     unsigned long int Row;
     unsigned long int Col;
 } SMatrix;

@@ -1,11 +1,11 @@
 # depslib dependency file v1.0
-1749566621 source:c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_5\2025_tupitskyi_v_v_lab_5_dll\matrix.c
+1750014245 source:c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_5\2025_tupitskyi_v_v_lab_5_dll\matrix.c
 	<stdlib.h>
 	<stdio.h>
 	"Matrix.h"
 
-1749566666 c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_5\2025_tupitskyi_v_v_lab_5_dll\matrix.h
+1750014284 c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_5\2025_tupitskyi_v_v_lab_5_dll\matrix.h
 	"SMatrix.h"
 
-1749566691 c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_5\2025_tupitskyi_v_v_lab_5_dll\smatrix.h
+1750014348 c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_5\2025_tupitskyi_v_v_lab_5_dll\smatrix.h
 

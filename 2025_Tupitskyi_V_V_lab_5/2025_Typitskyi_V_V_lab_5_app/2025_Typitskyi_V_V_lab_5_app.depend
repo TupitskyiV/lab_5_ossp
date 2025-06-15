@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1749639627 source:c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_5\2025_typitskyi_v_v_lab_5_app\main.c
+1750014736 source:c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_5\2025_typitskyi_v_v_lab_5_app\main.c
 	<windows.h>
 	<stdio.h>
 	"Matrix.h"
@@ -9,8 +9,8 @@
 
 1748559185 c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_5\2025_tupitskyi_v_v_lab_5_dll\smatrix.h
 
-1749566666 c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_5\2025_typitskyi_v_v_lab_5_app\matrix.h
+1750014284 c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_5\2025_typitskyi_v_v_lab_5_app\matrix.h
 	"SMatrix.h"
 
-1749566691 c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_5\2025_typitskyi_v_v_lab_5_app\smatrix.h
+1750014348 c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_5\2025_typitskyi_v_v_lab_5_app\smatrix.h
 
